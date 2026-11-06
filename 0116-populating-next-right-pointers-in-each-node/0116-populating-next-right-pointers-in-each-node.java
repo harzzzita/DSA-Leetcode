@@ -20,28 +20,22 @@ class Node {
     }
 };
 */
-
 class Solution {
     public Node connect(Node root) {
-        if(root == null) return null ;
-        Queue<Node> q = new LinkedList<>() ;
-        q.add(root) ;
-        while(!q.isEmpty()){
-            int size = q.size() ;
+        if(root == null) return null;
+        Node leftmost = root;
+        while(leftmost.left != null) {
+            Node curr = leftmost;
+            while(curr != null) {
+                curr.left.next = curr.right;
 
-            for(int i = 0 ; i<size ; i++){
-                Node curr = q.poll() ;
-
-                if(i == size-1){
-                    curr.next = null ;
-                } else {
-                    curr.next = q.peek() ;
+                if(curr.next != null) {
+                    curr.right.next = curr.next.left;
                 }
-                if(curr.left != null) q.add(curr.left) ;
-                if(curr.right !=null) q.add(curr.right) ;
+                curr = curr.next;
             }
+            leftmost = leftmost.left;
         }
         return root;
-
     }
 }
