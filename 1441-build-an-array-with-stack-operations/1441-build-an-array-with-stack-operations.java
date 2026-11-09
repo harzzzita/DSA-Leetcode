@@ -1,15 +1,12 @@
 class Solution {
     public List<String> buildArray(int[] target, int n) {
-        List<String> ans = new ArrayList<>() ;
-        Stack<Integer> st = new Stack <>() ;
+        List<String> ans = new ArrayList<>() ;     
         int j = 0 ;
-        for(int i = 1 ; i<=n ; i++){
-            if(j==target.length) break ;
-            st.push(i) ;
+        for(int i = 1 ; i<=n && j<target.length ; i++){
+            
             ans.add("Push") ;
 
-            if(st.peek() != target[j]){
-                st.pop() ;
+            if(i != target[j]){
                 ans.add("Pop") ;
             } else{
                 j++;
