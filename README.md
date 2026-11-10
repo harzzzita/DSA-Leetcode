@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harzzzita/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## DP on Trees
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harzzzita/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harzzzita/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harzzzita/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
