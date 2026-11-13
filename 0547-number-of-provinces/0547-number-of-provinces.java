@@ -13,7 +13,7 @@ class Solution {
         for(int i = 0 ; i<isConnected.length ; i++){
             if(!vis[i]){
             count++ ;
-            dfs(0 , isConnected , vis) ;
+            dfs(i , isConnected , vis) ;
             }
         }
         return count ;
