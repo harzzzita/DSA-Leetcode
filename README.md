@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harzzzita/DSA-Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harzzzita/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harzzzita/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harzzzita/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/harzzzita/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/harzzzita/DSA-Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harzzzita/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
