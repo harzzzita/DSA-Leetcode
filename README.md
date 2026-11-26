@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harzzzita/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/harzzzita/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harzzzita/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harzzzita/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harzzzita/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
