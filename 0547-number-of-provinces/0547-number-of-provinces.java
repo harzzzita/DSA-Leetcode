@@ -1,8 +1,8 @@
 class Solution {
-    public void dfs(int node , int[][] isConnected , boolean[]vis ){
+    public void dfs (int node , int[][] isConnected , boolean [] vis){
         vis[node] = true ;
         for(int i = 0 ; i<isConnected.length ; i++){
-            if(!vis[i] && isConnected[node][i] == 1){
+            if(!vis[i] && isConnected[node][i]==1){
                 dfs(i , isConnected , vis) ;
             }
         }
@@ -12,11 +12,10 @@ class Solution {
         int count = 0 ;
         for(int i = 0 ; i<isConnected.length ; i++){
             if(!vis[i]){
-            count++ ;
-            dfs(i , isConnected , vis) ;
+                count++;
+                dfs(i , isConnected , vis) ;
             }
         }
-        return count ;
-        
+        return count ;    
     }
 }
