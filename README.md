@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harzzzita/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harzzzita/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/harzzzita/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/harzzzita/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harzzzita/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harzzzita/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/harzzzita/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/harzzzita/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harzzzita/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
