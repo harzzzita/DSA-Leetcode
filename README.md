@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/harzzzita/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0875-koko-eating-bananas](https://github.com/harzzzita/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/harzzzita/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/harzzzita/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/harzzzita/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/harzzzita/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/harzzzita/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harzzzita/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
